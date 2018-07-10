@@ -12,6 +12,6 @@ Repo with list of interesting curated links
 
 # Stoarge patterns
 
-1. https://www.joyent.com/blog/persistent-storage-patterns
+1. Storage patterns for microservices - https://www.joyent.com/blog/persistent-storage-patterns
 
 
