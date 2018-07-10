@@ -10,7 +10,7 @@ Repo with list of interesting curated links
 
 1. Docker architectures - https://success.docker.com/architectures
 
-# Stoarge patterns
+# Storage patterns
 
 1. Storage patterns for microservices - https://www.joyent.com/blog/persistent-storage-patterns
 
