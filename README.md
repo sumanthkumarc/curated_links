@@ -14,4 +14,8 @@ Repo with list of interesting curated links
 
 1. Storage patterns for microservices - https://www.joyent.com/blog/persistent-storage-patterns
 
+# Elasticsearch
+
+1. Dive into files stored by Elastcisearch - https://www.elastic.co/blog/found-dive-into-elasticsearch-storage
+
 
