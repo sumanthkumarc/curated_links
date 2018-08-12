@@ -10,6 +10,7 @@ Repo with list of interesting curated links
 
 1. Docker architectures - https://success.docker.com/architectures
 2. Containerd architecture - https://github.com/containerd/containerd/blob/master/design/architecture.md
+3. Docker container name generator - https://github.com/moby/moby/blob/master/pkg/namesgenerator/names-generator.go
 
 # Storage patterns
 
