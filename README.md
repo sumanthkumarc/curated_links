@@ -9,6 +9,7 @@ Repo with list of interesting curated links
 # Docker
 
 1. Docker architectures - https://success.docker.com/architectures
+2. Containerd architecture - https://github.com/containerd/containerd/blob/master/design/architecture.md
 
 # Storage patterns
 
