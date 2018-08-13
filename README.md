@@ -11,6 +11,7 @@ Repo with list of interesting curated links
 1. Docker architectures - https://success.docker.com/architectures
 2. Containerd architecture - https://github.com/containerd/containerd/blob/master/design/architecture.md
 3. Docker container name generator - https://github.com/moby/moby/blob/master/pkg/namesgenerator/names-generator.go
+4. Docker networking - http://success.docker.com/article/networking
 
 # Storage patterns
 
@@ -19,5 +20,8 @@ Repo with list of interesting curated links
 # Elasticsearch
 
 1. Dive into files stored by Elastcisearch - https://www.elastic.co/blog/found-dive-into-elasticsearch-storage
+
+# Kubernetes
+1. K8s networking - Docker model vs k8s model - https://kubernetes.io/docs/concepts/cluster-administration/networking/
 
 
