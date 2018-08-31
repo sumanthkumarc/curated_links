@@ -24,4 +24,7 @@ Repo with list of interesting curated links
 # Kubernetes
 1. K8s networking - Docker model vs k8s model - https://kubernetes.io/docs/concepts/cluster-administration/networking/
 
+# Books
+1. Site Reliability Engineering & The Site Reliability Workbook by Google - https://landing.google.com/sre/book.html
+
 
