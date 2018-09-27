@@ -21,6 +21,8 @@ Repo with list of interesting curated links
 
 1. Dive into files stored by Elastcisearch - https://www.elastic.co/blog/found-dive-into-elasticsearch-storage
 2. Temporal vs. Population Analysis in Elastic Machine Learning - https://www.elastic.co/blog/temporal-vs-population-analysis-in-elastic-machine-learning
+3. Anatomy of an Elasticsearch Cluster - https://blog.insightdatascience.com/anatomy-of-an-elasticsearch-cluster-part-i-7ac9a13b05db
+4. Index vs. Type - https://www.elastic.co/blog/index-vs-type
 
 # Kubernetes
 1. K8s networking - Docker model vs k8s model - https://kubernetes.io/docs/concepts/cluster-administration/networking/
