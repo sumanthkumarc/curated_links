@@ -20,9 +20,11 @@ Repo with list of interesting curated links
 # Elasticsearch
 
 1. Dive into files stored by Elastcisearch - https://www.elastic.co/blog/found-dive-into-elasticsearch-storage
+2. Temporal vs. Population Analysis in Elastic Machine Learning - https://www.elastic.co/blog/temporal-vs-population-analysis-in-elastic-machine-learning
 
 # Kubernetes
 1. K8s networking - Docker model vs k8s model - https://kubernetes.io/docs/concepts/cluster-administration/networking/
+2. Kubernetes - the hard way - https://github.com/kelseyhightower/kubernetes-the-hard-way
 
 # Books
 1. Site Reliability Engineering & The Site Reliability Workbook by Google - https://landing.google.com/sre/book.html
