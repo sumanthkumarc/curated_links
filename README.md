@@ -5,6 +5,7 @@ Repo with list of interesting curated links
 
 1. Adopting Microservices at Netflix: Lessons for Architectural Design - https://www.nginx.com/blog/microservices-at-netflix-architectural-best-practices/
 2. Four tier microservice architecture - https://www.nginx.com/blog/time-to-move-to-a-four-tier-application-architecture/
+3. 12 factor app: https://12factor.net/
 
 # Docker
 
@@ -20,9 +21,8 @@ Repo with list of interesting curated links
 # Elasticsearch
 
 1. Dive into files stored by Elastcisearch - https://www.elastic.co/blog/found-dive-into-elasticsearch-storage
-2. Temporal vs. Population Analysis in Elastic Machine Learning - https://www.elastic.co/blog/temporal-vs-population-analysis-in-elastic-machine-learning
-3. Anatomy of an Elasticsearch Cluster - https://blog.insightdatascience.com/anatomy-of-an-elasticsearch-cluster-part-i-7ac9a13b05db
-4. Index vs. Type - https://www.elastic.co/blog/index-vs-type
+2. Anatomy of an Elasticsearch Cluster - https://blog.insightdatascience.com/anatomy-of-an-elasticsearch-cluster-part-i-7ac9a13b05db
+3. Index vs. Type - https://www.elastic.co/blog/index-vs-type
 
 # Kubernetes
 1. K8s networking - Docker model vs k8s model - https://kubernetes.io/docs/concepts/cluster-administration/networking/
@@ -30,5 +30,13 @@ Repo with list of interesting curated links
 
 # Books
 1. Site Reliability Engineering & The Site Reliability Workbook by Google - https://landing.google.com/sre/book.html
+
+# Under the hood stuff - misc
+1. How Github works - https://blog.github.com/2009-10-20-how-we-made-github-fast/ and https://github.com/collections/projects-that-power-github
+2. How Gitlab works - https://docs.gitlab.com/ce/development/architecture.html
+
+# ML/AI
+1. How Github Topic suggestion work - https://githubengineering.com/topics/
+2. Temporal vs. Population Analysis in Elastic Machine Learning - https://www.elastic.co/blog/temporal-vs-population-analysis-in-elastic-machine-learning
 
 
