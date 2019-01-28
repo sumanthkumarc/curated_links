@@ -27,6 +27,8 @@ Repo with list of interesting curated links
 # Kubernetes
 1. K8s networking - Docker model vs k8s model - https://kubernetes.io/docs/concepts/cluster-administration/networking/
 2. Kubernetes - the hard way - https://github.com/kelseyhightower/kubernetes-the-hard-way
+3. Helm concepts - https://github.com/helm/helm/blob/master/docs/using_helm.md#three-big-concepts
+4. Helm chart dependencies - https://github.com/helm/helm/blob/master/docs/charts.md#chart-dependencies 
 
 # Books
 1. Site Reliability Engineering & The Site Reliability Workbook by Google - https://landing.google.com/sre/book.html
