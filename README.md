@@ -23,6 +23,8 @@ Repo with list of interesting curated links
 1. Dive into files stored by Elastcisearch - https://www.elastic.co/blog/found-dive-into-elasticsearch-storage
 2. Anatomy of an Elasticsearch Cluster - https://blog.insightdatascience.com/anatomy-of-an-elasticsearch-cluster-part-i-7ac9a13b05db
 3. Index vs. Type - https://www.elastic.co/blog/index-vs-type
+4. Rollover Pattern - https://www.elastic.co/blog/managing-time-based-indices-efficiently
+5. Hot warm architecture - https://www.elastic.co/blog/hot-warm-architecture-in-elasticsearch-5-x
 
 # Kubernetes
 1. K8s networking - Docker model vs k8s model - https://kubernetes.io/docs/concepts/cluster-administration/networking/
