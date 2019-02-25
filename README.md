@@ -13,7 +13,8 @@ Repo with list of interesting curated links
 2. Containerd architecture - https://github.com/containerd/containerd/blob/master/design/architecture.md
 3. Docker container name generator - https://github.com/moby/moby/blob/master/pkg/namesgenerator/names-generator.go
 4. Docker networking - http://success.docker.com/article/networking
-
+5. Get the docker run for exitsing container - runlike - https://github.com/lavie/runlike
+ 
 # Storage patterns
 
 1. Storage patterns for microservices - https://www.joyent.com/blog/persistent-storage-patterns
@@ -33,6 +34,7 @@ Repo with list of interesting curated links
 4. Helm chart dependencies - https://github.com/helm/helm/blob/master/docs/charts.md#chart-dependencies 
 5. Contritbution - https://github.com/kubernetes/community/blob/master/contributors/guide/README.md
 6. Contritbution - https://github.com/kubernetes/community/blob/master/contributors/devel/README.md
+7. Render K8s templates - Kubetpl - https://github.com/shyiko/kubetpl 
 
 # Books
 1. Site Reliability Engineering & The Site Reliability Workbook by Google - https://landing.google.com/sre/book.html
