@@ -26,6 +26,9 @@ Repo with list of interesting curated links
 3. Index vs. Type - https://www.elastic.co/blog/index-vs-type
 4. Rollover Pattern - https://www.elastic.co/blog/managing-time-based-indices-efficiently
 5. Hot warm architecture - https://www.elastic.co/blog/hot-warm-architecture-in-elasticsearch-5-x
+6. Debugging tools - 
+   a. ElasticHQ - https://hub.docker.com/r/elastichq/elasticsearch-hq/
+   b. Cerebro - https://github.com/lmenezes/cerebro-docker
 
 # Kubernetes
 1. K8s networking - Docker model vs k8s model - https://kubernetes.io/docs/concepts/cluster-administration/networking/
