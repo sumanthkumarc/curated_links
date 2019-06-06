@@ -38,6 +38,7 @@ Repo with list of interesting curated links
 5. Contritbution - https://github.com/kubernetes/community/blob/master/contributors/guide/README.md
 6. Contritbution - https://github.com/kubernetes/community/blob/master/contributors/devel/README.md
 7. Render K8s templates - Kubetpl - https://github.com/shyiko/kubetpl 
+8. Pause Container - https://www.ianlewis.org/en/almighty-pause-container
 
 # Books
 1. Site Reliability Engineering & The Site Reliability Workbook by Google - https://landing.google.com/sre/book.html
