@@ -7,13 +7,15 @@ Repo with list of interesting curated links
 2. Four tier microservice architecture - https://www.nginx.com/blog/time-to-move-to-a-four-tier-application-architecture/
 3. 12 factor app: https://12factor.net/
 
-# Docker
+# Containers
 
 1. Docker architectures - https://success.docker.com/architectures
 2. Containerd architecture - https://github.com/containerd/containerd/blob/master/design/architecture.md
 3. Docker container name generator - https://github.com/moby/moby/blob/master/pkg/namesgenerator/names-generator.go
 4. Docker networking - http://success.docker.com/article/networking
 5. Get the docker run for exitsing container - runlike - https://github.com/lavie/runlike
+6. Comparison of base images - http://crunchtools.com/comparison-linux-container-images/
+7. Architecting containers - https://www.redhat.com/en/blog/architecting-containers-part-1-why-understanding-user-space-vs-kernel-space-matters
  
 # Storage patterns
 
